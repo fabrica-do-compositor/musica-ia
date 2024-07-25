@@ -1,0 +1,5 @@
+/meu-site
+  /uploads
+  index.html
+  seu_script_de_envio.js (substituindo o PHP por uma função serverless)
+  package.json
